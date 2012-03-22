@@ -1,0 +1,6 @@
+PdfPunk
+
+PdfPunk is a little experiment using Python and pdftotext to translate a PDF to text.
+
+Maybe one day this will grow into a whole tool set of basic manipulation of PDF documents.
+
